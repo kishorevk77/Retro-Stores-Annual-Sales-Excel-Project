@@ -43,7 +43,7 @@ This stage began with getting to know the dataset and checking for any data qual
 Six pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between sales and other factors such as gender, orders in diff months, top states. Trends in order status, orders on diff channels orders and age comparison were also performed.
 
 ## Dashboard Overview
-![Retro Stores sales dashboard](https://github.com/user-attachments/assets/9458b7e6-8c46-4488-9b83-94d774002b32)
+[Retro Stores sales dashboard](https://github.com/user-attachments/assets/9458b7e6-8c46-4488-9b83-94d774002b32)
 ## Insights
 Key insights from the analysis: 📅 Peak Months: February and March witness the highest orders and sales activity.
 
