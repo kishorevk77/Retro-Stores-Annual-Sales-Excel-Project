@@ -14,8 +14,7 @@ The goal of this project is to create a dashboard of annual sales data for a fic
 - Filtering, Sorting and Conditional function
 - Pivot Tables and Pivot Chart
 - Dashboard creation
-## Business Questions 
-This project wasn't just about crunching numbers; it was about unraveling insights that could drive growth. 📈 I delved into a plethora of business questions:
+## Business Questions  
 
 📈 Comparative Sales and Orders Analysis: Visualizing the fascinating connection between sales and orders in a single chart.
 
